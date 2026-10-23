@@ -44,7 +44,7 @@
 ### Bai 4
 
 ### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./ảnh/bai4PNG)
+![Giao diện chính](./ảnh/bai4.PNG)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Thực thi chức năng](./ảnh/bai4test.PNG)
