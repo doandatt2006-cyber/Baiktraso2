@@ -1,0 +1,16 @@
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.Form1.resources
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.csproj.GenerateResource.cache
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.AssemblyInfoInputs.cache
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.AssemblyInfo.cs
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\bin\Debug\net10.0-windows\baiktraso2.exe
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\bin\Debug\net10.0-windows\baiktraso2.deps.json
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\bin\Debug\net10.0-windows\baiktraso2.runtimeconfig.json
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\bin\Debug\net10.0-windows\baiktraso2.dll
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\bin\Debug\net10.0-windows\baiktraso2.pdb
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.dll
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\refint\baiktraso2.dll
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.pdb
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.genruntimeconfig.cache
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\ref\baiktraso2.dll
