@@ -14,3 +14,9 @@ C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\refint\
 C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.pdb
 C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.genruntimeconfig.cache
 C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\ref\baiktraso2.dll
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.bai2.resources
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.sourcelink.json
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.bai3.resources
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.frmDoctorSchedule.resources
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.frmPatientProfiles.resources
+C:\Users\AD\source\repos\baiktraso2\baiktraso2\obj\Debug\net10.0-windows\baiktraso2.bai4.resources
